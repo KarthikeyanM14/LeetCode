@@ -16,6 +16,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KarthikeyanM14/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2727-number-of-senior-citizens](https://github.com/KarthikeyanM14/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/KarthikeyanM14/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KarthikeyanM14/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [1642-water-bottles](https://github.com/KarthikeyanM14/LeetCode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/KarthikeyanM14/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2481-strictly-palindromic-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KarthikeyanM14/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
