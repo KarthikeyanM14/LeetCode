@@ -46,8 +46,13 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KarthikeyanM14/LeetCode/tree/master/0242-valid-anagram) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KarthikeyanM14/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KarthikeyanM14/LeetCode/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KarthikeyanM14/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
