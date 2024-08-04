@@ -11,6 +11,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/KarthikeyanM14/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/KarthikeyanM14/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1791-richest-customer-wealth](https://github.com/KarthikeyanM14/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/KarthikeyanM14/LeetCode/tree/master/1803-average-waiting-time) |
 | [2048-build-array-from-permutation](https://github.com/KarthikeyanM14/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/KarthikeyanM14/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
