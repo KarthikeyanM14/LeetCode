@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KarthikeyanM14/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/KarthikeyanM14/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/KarthikeyanM14/LeetCode/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/KarthikeyanM14/LeetCode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/KarthikeyanM14/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
