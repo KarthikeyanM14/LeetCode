@@ -66,6 +66,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KarthikeyanM14/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2727-number-of-senior-citizens](https://github.com/KarthikeyanM14/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/KarthikeyanM14/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/KarthikeyanM14/LeetCode/tree/master/3379-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
