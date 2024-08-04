@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KarthikeyanM14/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarthikeyanM14/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1580-shuffle-the-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/KarthikeyanM14/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/KarthikeyanM14/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/KarthikeyanM14/LeetCode/tree/master/1803-average-waiting-time) |
