@@ -11,6 +11,7 @@
 | [1720-crawler-log-folder](https://github.com/KarthikeyanM14/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/KarthikeyanM14/LeetCode/tree/master/1803-average-waiting-time) |
 | [2048-build-array-from-permutation](https://github.com/KarthikeyanM14/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [1803-average-waiting-time](https://github.com/KarthikeyanM14/LeetCode/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/KarthikeyanM14/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/KarthikeyanM14/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
