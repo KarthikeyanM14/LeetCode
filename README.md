@@ -14,6 +14,7 @@
 | [2058-concatenation-of-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KarthikeyanM14/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2727-number-of-senior-citizens](https://github.com/KarthikeyanM14/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3194-find-words-containing-character](https://github.com/KarthikeyanM14/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/KarthikeyanM14/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KarthikeyanM14/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2727-number-of-senior-citizens](https://github.com/KarthikeyanM14/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3194-find-words-containing-character](https://github.com/KarthikeyanM14/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Sorting
 |  |
 | ------- |
