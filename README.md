@@ -30,6 +30,7 @@
 | [0326-power-of-three](https://github.com/KarthikeyanM14/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KarthikeyanM14/LeetCode/tree/master/0342-power-of-four) |
 | [1635-number-of-good-pairs](https://github.com/KarthikeyanM14/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/KarthikeyanM14/LeetCode/tree/master/1642-water-bottles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/KarthikeyanM14/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/KarthikeyanM14/LeetCode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
