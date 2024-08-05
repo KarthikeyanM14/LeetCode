@@ -16,6 +16,7 @@
 | [2048-build-array-from-permutation](https://github.com/KarthikeyanM14/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KarthikeyanM14/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/KarthikeyanM14/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2727-number-of-senior-citizens](https://github.com/KarthikeyanM14/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/KarthikeyanM14/LeetCode/tree/master/3194-find-words-containing-character) |
