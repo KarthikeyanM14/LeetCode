@@ -51,6 +51,7 @@
 | [1642-water-bottles](https://github.com/KarthikeyanM14/LeetCode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/KarthikeyanM14/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2481-strictly-palindromic-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2556-convert-the-temperature](https://github.com/KarthikeyanM14/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KarthikeyanM14/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
