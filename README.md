@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KarthikeyanM14/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarthikeyanM14/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/KarthikeyanM14/LeetCode/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0414-third-maximum-number) |
 | [1580-shuffle-the-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/KarthikeyanM14/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/KarthikeyanM14/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KarthikeyanM14/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KarthikeyanM14/LeetCode/tree/master/0342-power-of-four) |
