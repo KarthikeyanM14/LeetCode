@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KarthikeyanM14/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarthikeyanM14/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0414-third-maximum-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0414-third-maximum-number) |
 | [1580-shuffle-the-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/KarthikeyanM14/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KarthikeyanM14/LeetCode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0414-third-maximum-number) |
 ## Stack
 |  |
 | ------- |
