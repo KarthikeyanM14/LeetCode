@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KarthikeyanM14/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/KarthikeyanM14/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KarthikeyanM14/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -140,12 +141,15 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
