@@ -21,6 +21,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/KarthikeyanM14/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2727-number-of-senior-citizens](https://github.com/KarthikeyanM14/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/KarthikeyanM14/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/KarthikeyanM14/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KarthikeyanM14/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
