@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/KarthikeyanM14/LeetCode/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0414-third-maximum-number) |
+| [1137-height-checker](https://github.com/KarthikeyanM14/LeetCode/tree/master/1137-height-checker) |
 | [1580-shuffle-the-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/KarthikeyanM14/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/KarthikeyanM14/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0414-third-maximum-number) |
+| [1137-height-checker](https://github.com/KarthikeyanM14/LeetCode/tree/master/1137-height-checker) |
 ## Stack
 |  |
 | ------- |
@@ -159,4 +161,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/KarthikeyanM14/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
