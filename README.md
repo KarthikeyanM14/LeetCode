@@ -76,6 +76,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/KarthikeyanM14/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/KarthikeyanM14/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/KarthikeyanM14/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/KarthikeyanM14/LeetCode/tree/master/0231-power-of-two) |
@@ -148,6 +149,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/KarthikeyanM14/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/KarthikeyanM14/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/KarthikeyanM14/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0908-middle-of-the-linked-list](https://github.com/KarthikeyanM14/LeetCode/tree/master/0908-middle-of-the-linked-list) |
