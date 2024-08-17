@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/KarthikeyanM14/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/KarthikeyanM14/LeetCode/tree/master/0066-plus-one) |
+| [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/KarthikeyanM14/LeetCode/tree/master/1137-height-checker) |
 | [1580-shuffle-the-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/KarthikeyanM14/LeetCode/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/KarthikeyanM14/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/KarthikeyanM14/LeetCode/tree/master/0242-valid-anagram) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KarthikeyanM14/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -104,6 +106,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/KarthikeyanM14/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/KarthikeyanM14/LeetCode/tree/master/1137-height-checker) |
@@ -132,6 +135,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KarthikeyanM14/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Brainteaser
 |  |
