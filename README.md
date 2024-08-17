@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/KarthikeyanM14/LeetCode/tree/master/0058-length-of-last-word) |
+| [0214-shortest-palindrome](https://github.com/KarthikeyanM14/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/KarthikeyanM14/LeetCode/tree/master/0242-valid-anagram) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KarthikeyanM14/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/KarthikeyanM14/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -205,4 +206,16 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KarthikeyanM14/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/KarthikeyanM14/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KarthikeyanM14/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/KarthikeyanM14/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/KarthikeyanM14/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/KarthikeyanM14/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
