@@ -9,7 +9,7 @@ class Solution {
             product=product*nums[i];
         }
         product=1;
-        for(int i=n-1;i>=0;i--)
+        for(int i=n-1;i>=-0;i--)
         {
             arr[i]=product*arr[i];
             product=product*nums[i];
