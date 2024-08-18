@@ -190,6 +190,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/KarthikeyanM14/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KarthikeyanM14/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KarthikeyanM14/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -198,6 +199,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/KarthikeyanM14/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KarthikeyanM14/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KarthikeyanM14/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -208,6 +210,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KarthikeyanM14/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/KarthikeyanM14/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KarthikeyanM14/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KarthikeyanM14/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Counting Sort
 |  |
@@ -244,4 +247,8 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/KarthikeyanM14/LeetCode/tree/master/0198-house-robber) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KarthikeyanM14/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
