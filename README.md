@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KarthikeyanM14/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarthikeyanM14/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/KarthikeyanM14/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/KarthikeyanM14/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/KarthikeyanM14/LeetCode/tree/master/0066-plus-one) |
@@ -68,6 +69,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KarthikeyanM14/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KarthikeyanM14/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/KarthikeyanM14/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -143,6 +145,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KarthikeyanM14/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KarthikeyanM14/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Brainteaser
