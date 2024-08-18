@@ -27,11 +27,11 @@ class Solution {
             temp=q.poll();
             if(temp.left!=null)
             {
-                q.offer(temp.left);
+                q.add(temp.left);
             }
             if(temp.right!=null)
             {
-                q.offer(temp.right);
+                q.add(temp.right);
             }
             list.add(temp.val);
         }
