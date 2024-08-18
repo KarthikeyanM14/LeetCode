@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KarthikeyanM14/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarthikeyanM14/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/KarthikeyanM14/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/KarthikeyanM14/LeetCode/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0414-third-maximum-number) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KarthikeyanM14/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/KarthikeyanM14/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/KarthikeyanM14/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/KarthikeyanM14/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/KarthikeyanM14/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -90,6 +92,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KarthikeyanM14/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KarthikeyanM14/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/KarthikeyanM14/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
@@ -110,6 +113,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KarthikeyanM14/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/KarthikeyanM14/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0414-third-maximum-number) |
