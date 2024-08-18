@@ -5,14 +5,14 @@ class Solution {
         {
             return 0;
         }
-        int sum=0;
         int sum1=0;
+        int sum2=0;
         for(int num:nums)
         {
-            int temp=sum;
-            sum=Math.max(sum1+num,sum);
-            sum1=temp;
+            int temp=sum1;
+            sum1=Math.max(sum2+num,sum1);
+            sum2=temp;
         }
-        return sum;
+        return sum1;
     }
 }
