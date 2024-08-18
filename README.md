@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/KarthikeyanM14/LeetCode/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0414-third-maximum-number) |
+| [0917-boats-to-save-people](https://github.com/KarthikeyanM14/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1137-height-checker](https://github.com/KarthikeyanM14/LeetCode/tree/master/1137-height-checker) |
 | [1580-shuffle-the-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -74,6 +75,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/KarthikeyanM14/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/KarthikeyanM14/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/KarthikeyanM14/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2481-strictly-palindromic-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
@@ -119,6 +121,7 @@
 | [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/KarthikeyanM14/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0414-third-maximum-number) |
+| [0917-boats-to-save-people](https://github.com/KarthikeyanM14/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1137-height-checker](https://github.com/KarthikeyanM14/LeetCode/tree/master/1137-height-checker) |
 ## Stack
 |  |
@@ -147,6 +150,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/KarthikeyanM14/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
+| [0917-boats-to-save-people](https://github.com/KarthikeyanM14/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KarthikeyanM14/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Brainteaser
 |  |
