@@ -3,13 +3,30 @@ class Solution {
         int a=jewels.length();
         int b=stones.length();
         int count=0;
-        for(int i=0;i<a;i++)
+        int i=0;
+        for(int j=0;j<b;j++)
         {
-            for(int j=0;j<b;j++)
+            if(j==b-1)
             {
                 if(jewels.charAt(i)==stones.charAt(j))
                 count++;
+                j++;
             }
+            
+            if(j==b)
+            {
+                i++;
+                j=0;
+                if(i==a)
+                {
+                    break;
+                }
+            }
+            if(jewels.charAt(i)==stones.charAt(j))
+            {
+                count++;
+            }
+
         }
         return count;
     }
