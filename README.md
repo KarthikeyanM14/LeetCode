@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/KarthikeyanM14/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/KarthikeyanM14/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/KarthikeyanM14/LeetCode/tree/master/0066-plus-one) |
+| [0137-single-number-ii](https://github.com/KarthikeyanM14/LeetCode/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/KarthikeyanM14/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/KarthikeyanM14/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -84,6 +85,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/KarthikeyanM14/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/KarthikeyanM14/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/KarthikeyanM14/LeetCode/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KarthikeyanM14/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
