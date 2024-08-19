@@ -85,6 +85,7 @@
 | [0027-remove-element](https://github.com/KarthikeyanM14/LeetCode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/KarthikeyanM14/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/KarthikeyanM14/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/KarthikeyanM14/LeetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/KarthikeyanM14/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/KarthikeyanM14/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2481-strictly-palindromic-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -114,6 +115,7 @@
 | [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/KarthikeyanM14/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/KarthikeyanM14/LeetCode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/KarthikeyanM14/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/KarthikeyanM14/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KarthikeyanM14/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/KarthikeyanM14/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -259,6 +261,7 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/KarthikeyanM14/LeetCode/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/KarthikeyanM14/LeetCode/tree/master/0392-is-subsequence) |
 ## Binary Search Tree
 |  |
 | ------- |
