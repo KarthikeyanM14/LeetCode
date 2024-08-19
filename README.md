@@ -20,6 +20,7 @@
 | [0414-third-maximum-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0414-third-maximum-number) |
 | [0917-boats-to-save-people](https://github.com/KarthikeyanM14/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1137-height-checker](https://github.com/KarthikeyanM14/LeetCode/tree/master/1137-height-checker) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/KarthikeyanM14/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/KarthikeyanM14/LeetCode/tree/master/1635-number-of-good-pairs) |
