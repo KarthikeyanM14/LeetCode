@@ -88,6 +88,7 @@
 | [0392-is-subsequence](https://github.com/KarthikeyanM14/LeetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/KarthikeyanM14/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/KarthikeyanM14/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1894-merge-strings-alternately](https://github.com/KarthikeyanM14/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2481-strictly-palindromic-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
@@ -122,6 +123,7 @@
 | [1651-shuffle-string](https://github.com/KarthikeyanM14/LeetCode/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/KarthikeyanM14/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KarthikeyanM14/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1894-merge-strings-alternately](https://github.com/KarthikeyanM14/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KarthikeyanM14/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KarthikeyanM14/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/KarthikeyanM14/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
