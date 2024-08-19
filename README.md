@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/KarthikeyanM14/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/KarthikeyanM14/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/KarthikeyanM14/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/KarthikeyanM14/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/KarthikeyanM14/LeetCode/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
@@ -75,6 +76,7 @@
 | [0011-container-with-most-water](https://github.com/KarthikeyanM14/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KarthikeyanM14/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/KarthikeyanM14/LeetCode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/KarthikeyanM14/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/KarthikeyanM14/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/KarthikeyanM14/LeetCode/tree/master/0917-boats-to-save-people) |
