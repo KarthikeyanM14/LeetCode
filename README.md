@@ -85,6 +85,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KarthikeyanM14/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KarthikeyanM14/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/KarthikeyanM14/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KarthikeyanM14/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/KarthikeyanM14/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KarthikeyanM14/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/KarthikeyanM14/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KarthikeyanM14/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/KarthikeyanM14/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KarthikeyanM14/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/KarthikeyanM14/LeetCode/tree/master/0214-shortest-palindrome) |
