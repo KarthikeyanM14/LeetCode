@@ -20,6 +20,7 @@
 | [0238-product-of-array-except-self](https://github.com/KarthikeyanM14/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KarthikeyanM14/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0414-third-maximum-number) |
+| [0605-can-place-flowers](https://github.com/KarthikeyanM14/LeetCode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/KarthikeyanM14/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1137-height-checker](https://github.com/KarthikeyanM14/LeetCode/tree/master/1137-height-checker) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/KarthikeyanM14/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/KarthikeyanM14/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/0179-largest-number) |
+| [0605-can-place-flowers](https://github.com/KarthikeyanM14/LeetCode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/KarthikeyanM14/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KarthikeyanM14/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Brainteaser
