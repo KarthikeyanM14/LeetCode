@@ -31,6 +31,7 @@
 | [1720-crawler-log-folder](https://github.com/KarthikeyanM14/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1791-richest-customer-wealth](https://github.com/KarthikeyanM14/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/KarthikeyanM14/LeetCode/tree/master/1803-average-waiting-time) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/KarthikeyanM14/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KarthikeyanM14/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -83,6 +84,7 @@
 | [1635-number-of-good-pairs](https://github.com/KarthikeyanM14/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/KarthikeyanM14/LeetCode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/KarthikeyanM14/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/KarthikeyanM14/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/KarthikeyanM14/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KarthikeyanM14/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
