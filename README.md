@@ -138,6 +138,7 @@
 | [0392-is-subsequence](https://github.com/KarthikeyanM14/LeetCode/tree/master/0392-is-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/KarthikeyanM14/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KarthikeyanM14/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0742-to-lower-case](https://github.com/KarthikeyanM14/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/KarthikeyanM14/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KarthikeyanM14/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/KarthikeyanM14/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
