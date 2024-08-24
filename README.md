@@ -73,6 +73,7 @@
 | [0066-plus-one](https://github.com/KarthikeyanM14/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KarthikeyanM14/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/KarthikeyanM14/LeetCode/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/KarthikeyanM14/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/KarthikeyanM14/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KarthikeyanM14/LeetCode/tree/master/0342-power-of-four) |
 | [0564-find-the-closest-palindrome](https://github.com/KarthikeyanM14/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -194,6 +195,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/KarthikeyanM14/LeetCode/tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/KarthikeyanM14/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Prefix Sum
 |  |
